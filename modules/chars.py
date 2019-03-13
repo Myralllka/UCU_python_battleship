@@ -1,0 +1,4 @@
+SHIP_AREA = '■'
+EMPTY_AREA = ' '
+HURT_AREA = 'X'
+MISSED_AREA = 'o'
