@@ -27,7 +27,7 @@ while True:
         else:
             print("You miss!")
         if game.is_end():
-            winner = game.current_player.name
+            winner = game.players[game.current_player].name
             break
         if missed:
             game.current_player = enemy

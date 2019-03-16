@@ -18,4 +18,4 @@ and than you can start the game using the command:
 ./main.py
 ```
 ## Remarks:
-You need to have already installed python3 interpreter to start this game.
+You need to have already installed python3.7 interpreter to start this game.
