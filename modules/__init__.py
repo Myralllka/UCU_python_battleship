@@ -3,6 +3,8 @@ from modules.ship import *
 from modules.player import *
 from modules.game import *
 from modules.chars import *
+from modules.exceptions import *
+
 import random
 
 
